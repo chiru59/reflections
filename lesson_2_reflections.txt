@@ -19,6 +19,8 @@ organized? How would branches help?
 or large change whithou effecting the present code
 
 How do the diagrams help you visualize the branch structure?
+	There can be many branches at a time. And commits can be on any branch. So it is 
+easier to understand the commits/branches by visualizing.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
