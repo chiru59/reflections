@@ -24,6 +24,9 @@ easier to understand the commits/branches by visualizing.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+	Every files is merged after analysis. Representing all the branches the merges
+in a picture can make us understand easily.
 
 What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
 manually?
+	Manual merging gives us more flexibility. 
