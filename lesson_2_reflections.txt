@@ -4,12 +4,19 @@ any comming. git status can be used to find the status of the repo
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
+	Staging area allows us to commit a bundle of files. It provided more flexiblity
+by giving an option. We can add files from working directory to stating area to be commited.
+This allows one commit per a logical change.
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+	We can add only the files with changes to the staging area.By this way you can use
+staging area to commit once for a logical change.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+	Branches can be used when you want to make a different version,experimental change
+or large change whithou effecting the present code
 
 How do the diagrams help you visualize the branch structure?
 
